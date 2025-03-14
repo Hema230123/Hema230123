@@ -9,42 +9,23 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+- Sophomore at Shri Vishnu Engineering College For Women
 - 🌱 I’m currently learning **Full stack web development**
 
 - 📫 How to reach me **mhlambica2006@gmail.com**
-
+- 👥 Let’s connect and grow together! 🌱 [LinkedIn](https://www.linkedin.com/in/hema-lalithambica-mypala-47a4b5298/)
 <br><br><br>
 
-## Achievements:
-
-<div style="border: 2px solid #ddd; border-radius: 10px; padding: 10px; margin: 10px 0; background-color: #f9f9f9;">
-  <div align="center">
-    <table>
-      <tr>
-        <td>
-          <img src="https://github.com/Hema230123/Hema230123/blob/main/11.png" alt="Postman - Postman API Fundamentals Student Expert - 2024-08-23" width="200">
-        </td>
-        <td>
-          <img src="12.png" alt="Achievement 2" width="200">
-        </td>
-        <td>
-          <img src="13.png" alt="Achievement 3" width="200">
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <img src="14.png" alt="Achievement 5" width="200">
-        </td>
-        <td>
-          <img src="15.png" alt="Achievement 6" width="200">
-        </td>
-        <td>
-          <img src="16.png" alt="Achievement 7" width="200">
-        </td>
-      </tr>
-    </table>
-  </div>
+<b>GSSOC(24) Badges 🪶</b><br>
+<div style='display:flex; align-items:center;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="120px" height="120px" gap: 30px />
+  <img src="12.png" width="120px" height="120px" gap: 20px />
+  <img src="13.png" width="120px" height="120px" gap: 20px />
+  <img src="14.png" width="120px" height="120px" gap: 20px />
+  <img src="15.png" width="120px" height="120px" gap: 20px />
+  <img src="16.png" width="120px" height="120px" gap: 20px />
 </div>
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/hema lalithambica mypala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hema lalithambica mypala" height="30" width="40" /></a>
