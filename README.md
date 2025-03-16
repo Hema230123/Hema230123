@@ -25,7 +25,17 @@
   <img src="15.png" width="120px" height="120px" gap: 20px />
   <img src="16.png" width="120px" height="120px" gap: 20px />
 </div>
-  
+
+### Contributions Badges 🎖️
+<div style='display:flex; align-items:center;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
+<img src="17.png" width="120px" height="120px" gap: 30px />
+  <img src="18.png" width="120px" height="120px" gap: 20px />
+  <img src="19.png" width="120px" height="120px" gap: 20px />
+  <img src="20.png" width="120px" height="120px" gap: 20px />
+  <img src="21.png" width="120px" height="120px" gap: 20px />
+  <img src="22.png" width="120px" height="120px" gap: 20px />
+</div>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/hema lalithambica mypala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hema lalithambica mypala" height="30" width="40" /></a>
